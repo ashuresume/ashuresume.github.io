@@ -1,0 +1,86 @@
+body{
+	background-image: url("https://s-media-cache-ak0.pinimg.com/236x/29/60/9a/29609a3f59419c9663c123cbef50b685.jpg");
+}
+
+#top{
+	color: teal;
+	text-align: center;
+}
+
+#image{
+	width: 225px;
+	height:300px;
+	border: 3px solid SlateBlue;
+	margin: 0px;
+	padding: 0;
+	position:relative;
+	left: 550px;
+	box-shadow: 4px 4px 4px Navy;
+	cursor: pointer;
+}
+
+#name{
+	color: indigo;
+	text-align: center;
+	cursor: pointer;
+}
+
+#info{
+	background-image: url("http://arafen.com/a/l/p/pastel-green-paper-texture-picture-free-photograph-photos_pastal-colors_stone-veneer-fireplace-surround-cool-night-stands-great-decorating-ideas-faux-finish-walls-living-room-apa_1080x720.jpg");
+	cursor: pointer;
+}
+
+#size{
+	font-size: 25px;
+}
+
+#s0{
+	background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAXYAAACHCAMAAAA1OYJfAAAADFBMVEW9vb26urrf39/w8PCk+UPfAAABMUlEQVR4nO3QQRGAQAwAsaPn3zMMIrqfRELOHdbdMw/r5ms/LNOe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe+NtZN+cO6+4LbroL35INe8QAAAAASUVORK5CYII=");
+	background-repeat: no-repeat;
+	position:relative;
+	cursor: pointer;
+}
+
+#s1{
+	background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAXYAAACHCAMAAAA1OYJfAAAADFBMVEW9vb26urrf39/w8PCk+UPfAAABMUlEQVR4nO3QQRGAQAwAsaPn3zMMIrqfRELOHdbdMw/r5ms/LNOe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe+NtZN+cO6+4LbroL35INe8QAAAAASUVORK5CYII=");
+	background-repeat: no-repeat;
+	position: relative;
+	left : 10px;
+	cursor: pointer;
+}
+#s2{
+	background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAXYAAACHCAMAAAA1OYJfAAAADFBMVEW9vb26urrf39/w8PCk+UPfAAABMUlEQVR4nO3QQRGAQAwAsaPn3zMMIrqfRELOHdbdMw/r5ms/LNOe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe+NtZN+cO6+4LbroL35INe8QAAAAASUVORK5CYII=");
+	background-repeat: no-repeat;
+	position: relative;
+	left : 900px;
+	cursor: pointer;
+}
+#s3{
+	background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAXYAAACHCAMAAAA1OYJfAAAADFBMVEW9vb26urrf39/w8PCk+UPfAAABMUlEQVR4nO3QQRGAQAwAsaPn3zMMIrqfRELOHdbdMw/r5ms/LNOe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe+NtZN+cO6+4LbroL35INe8QAAAAASUVORK5CYII=");
+	background-repeat: no-repeat;
+	position: relative;
+	left : 10px;
+	cursor: pointer;
+}
+#s4{
+	background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAXYAAACHCAMAAAA1OYJfAAAADFBMVEW9vb26urrf39/w8PCk+UPfAAABMUlEQVR4nO3QQRGAQAwAsaPn3zMMIrqfRELOHdbdMw/r5ms/LNOe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe+NtZN+cO6+4LbroL35INe8QAAAAASUVORK5CYII=");
+	background-repeat: no-repeat;
+	position: relative;
+	left : 900px;
+	cursor: pointer;
+}
+#s5{
+	background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAXYAAACHCAMAAAA1OYJfAAAADFBMVEW9vb26urrf39/w8PCk+UPfAAABMUlEQVR4nO3QQRGAQAwAsaPn3zMMIrqfRELOHdbdMw/r5ms/LNOe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe+NtZN+cO6+4LbroL35INe8QAAAAASUVORK5CYII=");
+	background-repeat: no-repeat;
+	position: relative;
+	left : 10px;
+	cursor: pointer;
+}
+#s6{
+	background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAXYAAACHCAMAAAA1OYJfAAAADFBMVEW9vb26urrf39/w8PCk+UPfAAABMUlEQVR4nO3QQRGAQAwAsaPn3zMMIrqfRELOHdbdMw/r5ms/LNOe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe0J7QntCe+NtZN+cO6+4LbroL35INe8QAAAAASUVORK5CYII=");
+	background-repeat: no-repeat;
+	position: relative;
+	left : 900px;
+	cursor: pointer;
+}
+
